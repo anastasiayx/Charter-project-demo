@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TransactionsRewards  shoud match the snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <header>
+      <h1
+        class="ant-typography"
+        role="heading"
+      >
+        Transactions Rewards Portal
+      </h1>
+    </header>
+    <span
+      class="loading-spinner"
+    >
+      Loading...
+    </span>
+  </section>
+</DocumentFragment>
+`;
