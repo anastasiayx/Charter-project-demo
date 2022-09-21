@@ -19,7 +19,8 @@ All the unit testing files are in the `__test__` folder
 
 All the e2e testing files are in the `cypress/e2e` folder
 
-`npm run test:e2e`
+1. `npm run start`
+2. create a new terminal to run: `npm run test:e2e`
 
 ## APIs
 
