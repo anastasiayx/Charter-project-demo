@@ -26,7 +26,7 @@ All the e2e testing files are in the `cypress/e2e` folder
 
 All APPs files are in the `pages/api` folder and mockData is in the `db` folder
 
-### TODO:
+## TODO
 
-I am assuming `calculateRewards` function to hanlde by the backend services with each transaction create,
-since it is not clear from the requirement documentation, I currently put it in the `db/db.mock.js`.
+I am assuming `calculateRewards` function should to hanlde by the backend services with each transaction create,
+Since it is not clear from the requirement documentation, I have put it in the `db/db.mock.js`.
